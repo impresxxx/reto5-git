@@ -1,5 +1,2 @@
-# reto5-git - Git
-
-Proyecto de practica para demostrar el uso de git y github
-
-Autor: Ramses de la Cruz Torres Lopez
+## Cambios realizados en pruebas
+ Esta modificacion fue realizada desde la rama de pruebas.
